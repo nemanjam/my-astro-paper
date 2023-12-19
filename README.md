@@ -1,3 +1,7 @@
+#### Forked from here:
+
+[https://github.com/satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+
 # AstroPaper 📄
 
 ![AstroPaper](public/astropaper-og.jpg)
